@@ -1,8 +1,13 @@
+
+<img width="751" height="512" alt="Screenshot 2026-06-11 221730" src="https://github.com/user-attachments/assets/e9a2db62-7a99-40fa-89d9-216bbbc73050" />
+
+THE PROJECT
 This is my LORA radio controller project! I wanted to make this because I am currently building a drone
 that requires a capable LORA radio.
 I have posted the Gerber files and BOM so you can produce your own functioning LORA radio controller.
 The controller has two joysticks, two switches, and two potentiometers for inputs.  I also added
-a buzzer to notify people when events happen, like connecting to a device. 
+a buzzer to notify people when events happen, like connecting to a device.  In the PCB step file I added all the 3d 
+models I could, but I could not get the potentiometer's 3d models. 
 
 
 
@@ -55,3 +60,9 @@ Here is the BOM, but you can also find the BOM.csv file in the repository:
 | U6 | SOT-223-3_TabPin2 | 1 | AMS1117-3.3 | |
 | U7 | QFN50P300X300X100-17N | 1 | BQ24072TRGTR | |
 | Y1 | XTAL_ECS-240-8-33-AGN-TR | 1 | ECS-80-12-33-JGN-TR | |
+
+
+
+Once you complete your PCB, you can 3d print a case!  The case is only two parts, a Base and a top that can be screwed together with 4 20mm screws, also the base has some holes for threaded inserts for m2.
+<img width="1520" height="770" alt="Case_render" src="https://github.com/user-attachments/assets/26ec0337-efe6-42ce-9acd-1c5beb4ecbc4" />
+
