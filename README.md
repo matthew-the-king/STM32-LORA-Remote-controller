@@ -63,6 +63,6 @@ Here is the BOM, but you can also find the BOM.csv file in the repository:
 
 
 
-Once you complete your PCB, you can 3d print a case!  The case is only two parts, a Base and a top that can be screwed together with 4 20mm screws, also the base has some holes for threaded inserts for m2.
+Once you complete your PCB, you can 3d print a case!  The case is only two parts, a Base and a top that can be screwed together with 4, 20mm screws, also the base has some holes for threaded inserts for m2.
 <img width="1520" height="770" alt="Case_render" src="https://github.com/user-attachments/assets/26ec0337-efe6-42ce-9acd-1c5beb4ecbc4" />
 
